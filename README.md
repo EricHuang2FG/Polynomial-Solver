@@ -1,0 +1,1 @@
+This program finds the real and rational roots to a inputted polynomial equation. It cannot find imaginary or irrational solutions!
